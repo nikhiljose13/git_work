@@ -6,3 +6,5 @@ git add -A
 commit -m "your message"
 
 git push orgin main/master
+
+git status
