@@ -8,3 +8,6 @@ commit -m "your message"
 git push orgin main/master
 
 git status
+ 
+
+git branch
